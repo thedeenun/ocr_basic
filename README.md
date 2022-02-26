@@ -1,1 +1,1 @@
-# OCR_basic
+# ocr_basic
